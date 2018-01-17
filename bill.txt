@@ -2,6 +2,6 @@
 +30	µØÌú¿¨
 -20	ÃÅ½û¿¨
 -6	Ôç²Í
-
+git has a mutable index called stage
 
 
