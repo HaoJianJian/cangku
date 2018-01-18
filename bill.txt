@@ -4,4 +4,4 @@
 -6	Ôç²Í
 git has a mutable index called stage
 gi s  sdhfsda sdfasdf
-woye bu zhi dao 
+wo zhi dao le 
