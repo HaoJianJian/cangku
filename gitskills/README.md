@@ -1,2 +1,3 @@
 # gitskills
-#create a naw branch quick & simple
+#create a naw branch is quick AND simple
+
